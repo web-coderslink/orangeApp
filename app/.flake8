@@ -1,6 +1,6 @@
 
 [flake8]
-excule=
+exclude=
     migrations,
     __pycache__,
     manage.py,
