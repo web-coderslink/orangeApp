@@ -81,7 +81,7 @@ DATABASES = {
         'NAME': environ.get('DB_NAME'),
         'HOST': environ.get('DB_HOST'),
         'USER': environ.get('DB_USER'),
-        'PASSWORD': environ.get('DB_PASS'),
+        'PASSWORD': environ.get('DB_PASSWORD'),
     }
 }
 
